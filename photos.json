@@ -1,0 +1,68 @@
+{
+    "photos": [
+        {
+            "id": "1",
+            "src": "https://picsum.photos/seed/xmas1/400/500",
+            "caption": "示例照片 1"
+        },
+        {
+            "id": "2",
+            "src": "https://picsum.photos/seed/xmas2/400/500",
+            "caption": "示例照片 2"
+        },
+        {
+            "id": "3",
+            "src": "https://picsum.photos/seed/xmas3/400/500",
+            "caption": "示例照片 3"
+        },
+        {
+            "id": "4",
+            "src": "https://picsum.photos/seed/xmas4/400/500",
+            "caption": "示例照片 4"
+        },
+        {
+            "id": "5",
+            "src": "https://picsum.photos/seed/xmas5/400/500",
+            "caption": "示例照片 5"
+        },
+        {
+            "id": "6",
+            "src": "https://picsum.photos/seed/xmas6/400/500",
+            "caption": "示例照片 6"
+        },
+        {
+            "id": "7",
+            "src": "https://picsum.photos/seed/xmas7/400/500",
+            "caption": "示例照片 7"
+        },
+        {
+            "id": "8",
+            "src": "https://picsum.photos/seed/xmas8/400/500",
+            "caption": "示例照片 8"
+        },
+        {
+            "id": "9",
+            "src": "https://picsum.photos/seed/xmas9/400/500",
+            "caption": "示例照片 9"
+        },
+        {
+            "id": "10",
+            "src": "https://picsum.photos/seed/xmas10/400/500",
+            "caption": "示例照片 10"
+        },
+        {
+            "id": "11",
+            "src": "https://picsum.photos/seed/xmas11/400/500",
+            "caption": "示例照片 11"
+        },
+        {
+            "id": "12",
+            "src": "https://picsum.photos/seed/xmas12/400/500",
+            "caption": "示例照片 12"
+        }
+    ],
+    "settings": {
+        "maxPhotos": 12,
+        "shuffleOnLoad": false
+    }
+}
